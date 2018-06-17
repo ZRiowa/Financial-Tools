@@ -21,11 +21,7 @@ def MacD(par,coup,r,y):
     else:
         print("parameters set wrong!")
     
-    
-par=input().int()
-coup=input().int()
-r=input().int()
-y=input().int()
-print(  MacD(91000,0.20,0.15,2020)     )
+
+print(  MacD(91000,0.05,0.10,2020)     )
         
     
